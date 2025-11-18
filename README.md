@@ -47,7 +47,7 @@ streamlit run app.py
 
 ## Live Demo
 
-[View Live Dashboard](https://your-app.streamlit.app) *(Replace with your actual deployment URL)*
+https://ecommerce-dashboard-ak6calmpwabg62twth6dvt.streamlit.app/
 
 ## Key Insights
 
@@ -72,4 +72,5 @@ streamlit run app.py
 ## License
 
 This project is for educational purposes as part of MBA coursework.
+
 
