@@ -65,13 +65,14 @@ https://ecommerce-dashboard-ahhtaewbcmxzxtrusdgmum.streamlit.app/
 
 ## Project Context
 
-**MBA Data Science & Analytics Project**  
+**MBA Programming for Business Analytics Project**  
 **Course**: MGMT 504  
 **Objective**: Apply data science lifecycle to real business problems  
 
 ## License
 
 This project is for educational purposes as part of MBA coursework.
+
 
 
 
