@@ -18,8 +18,7 @@ st.set_page_config(
     page_title="E-commerce Customer Analytics Dashboard",
     page_icon="🛒",
     layout="wide",
-    initial_sidebar_state="expanded"
-)
+    initial_sidebar_state="expanded")
 
 # Custom CSS for better styling
 st.markdown("""
@@ -1007,4 +1006,5 @@ if st.sidebar.button("📥 Download Processed Data"):
         file_name="filtered_customer_data.csv",
         mime="text/csv"
     )
+
 
